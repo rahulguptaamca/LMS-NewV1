@@ -16,5 +16,10 @@ public class LibraryManagementSystemV1Application {
 		System.out.println("Made changes add one line remotely on main branch at 2June22-06-00AM");
 		SpringApplication.run(LibraryManagementSystemV1Application.class, args); 
 	}
+	
+	//method1 is created in testing branch
+	public void method1() {
+		System.out.println();
+	}
 
 }
