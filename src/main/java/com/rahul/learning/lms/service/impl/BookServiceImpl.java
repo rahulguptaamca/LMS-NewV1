@@ -15,5 +15,10 @@ public class BookServiceImpl {
 		//2 Parametrized constructor.
 		System.out.println("Print value of s1"+s1+s2+s2);
 	}
+	
+	public BookServiceImpl(String s1, String s2,String s3) {
+		//3 Parametrized constructor.
+		System.out.println("Print value of s1"+s1+s2+s2);
+	}
 
 }
