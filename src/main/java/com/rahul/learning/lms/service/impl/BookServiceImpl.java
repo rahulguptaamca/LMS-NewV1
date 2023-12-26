@@ -21,4 +21,8 @@ public class BookServiceImpl {
 		System.out.println("Print value of s1"+s1+s2+s2);
 	}
 
+	public void method1()
+	{
+		System.out.println("New change added on 26Dec2023_656AM");
+	}
 }
