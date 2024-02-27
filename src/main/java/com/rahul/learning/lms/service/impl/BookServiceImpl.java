@@ -22,9 +22,5 @@ public class BookServiceImpl {
 		System.out.println("One changes added from local server at 26Feb2024At12:558AM");
 		System.out.println("One changes added from local server at 26Feb2024At11:32PM");
 	}
-	
-	public void buyBook() {
-		System.out.println("buyBook method added from local server at 27Feb2024At11:01PM");
-	}
 
 }
