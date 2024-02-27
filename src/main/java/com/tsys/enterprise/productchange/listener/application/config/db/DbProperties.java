@@ -79,4 +79,7 @@ public class DbProperties {
     public void setMinActive(int minActive) {
         this.minActive = minActive;
     }
+    public void testCall() {
+    	System.out.println("testCall method added from local server at 27Feb2024At11:04PM");
+    }
 }
