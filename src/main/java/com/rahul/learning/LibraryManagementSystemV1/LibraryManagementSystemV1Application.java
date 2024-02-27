@@ -19,5 +19,10 @@ public class LibraryManagementSystemV1Application {
 		System.out.println("*****************************************");
 		System.out.println("One sysout changes added from local server at 27Feb2024At11:01PM");
 	}
+	
+	public void test1() {
+		System.out.println("*****************************************");
+		System.out.println("test1 method added from local server at 27Feb2024At11:06PM");
+	}
 
 }
